@@ -53,8 +53,7 @@
         </plugins>
     </build>
     <scm>
-        <url>https://github.com/mjammoul93/sfg-pet-clinic.git</url>
-        <connection>scm:git:https://github.com/mjammoul93/sfg-pet-clinic.git</connection>
-      <tag>sfg-pet-clinic-0.0.2</tag>
+        <developerConnection>scm:git:git@github.com:mjammoul93/sfg-pet-clinic.git</developerConnection>
+      <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
