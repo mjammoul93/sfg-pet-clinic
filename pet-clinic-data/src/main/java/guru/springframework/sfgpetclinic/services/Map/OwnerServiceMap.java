@@ -1,9 +1,8 @@
 package guru.springframework.sfgpetclinic.services.Map;
 
-import guru.springframework.sfgpetclinic.model.Owner;
+import guru.springframework.sfgpetclinic.Owner;
 import guru.springframework.sfgpetclinic.services.CrudService;
 
-import javax.swing.*;
 import java.util.Set;
 
 public class OwnerServiceMap extends AbstractMapService<Owner,Long> implements CrudService<Owner,Long> {

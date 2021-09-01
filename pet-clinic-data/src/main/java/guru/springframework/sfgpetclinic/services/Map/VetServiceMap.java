@@ -1,6 +1,6 @@
 package guru.springframework.sfgpetclinic.services.Map;
 
-import guru.springframework.sfgpetclinic.model.Vet;
+import guru.springframework.sfgpetclinic.Vet;
 import guru.springframework.sfgpetclinic.services.CrudService;
 
 import java.util.Set;
